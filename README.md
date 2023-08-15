@@ -2,7 +2,7 @@
 
 <a src="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U" alt="Link da página do desafio">Desafio do site Frontend Mentor</a>, do qual era para ser feito a réplica do seguinte design, com as seguintes ações:
 
-<img src="./src/design/desktop-preview.jpg" width="250px">
+<img src="./src/design/desktop-preview.jpg" width="300px">
 <img src="./src/design/active-states.jpg" width="300px">
 
 <br>Resultado final:
