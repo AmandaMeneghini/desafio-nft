@@ -35,7 +35,7 @@ git clone https://github.com/AmandaMeneghini/desafio-nft.git
 4. Acesse a pasta do projeto:
 
 ```
-cd desafio-nft
+cd huddle-landing-page-with-single-introductory-section-master
 ```
 
 5. Abra o código no VS Code:
@@ -44,8 +44,8 @@ cd desafio-nft
 code .
 ```
 
-Passos extras com o Live Server:
+Passos extras com o **Live Server** no **VS Code**:
 
-6. Vá em extenções e baixe a extenção "Live Server"
+6. Vá no VS Code em extenções e baixe a extenção "Live Server"
 
-7. Aperte Alt + L + O, para a visualização do projeto
+7. Aperte **Alt + L + O**, para a visualização do projeto
